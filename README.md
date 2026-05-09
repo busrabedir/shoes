@@ -1,4 +1,4 @@
-<img width="800" height="457" alt="shoes" src="https://github.com/user-attachments/assets/9e881bb2-93b0-4c62-b5fc-a504fa7cacef" /># 👟 Kick Shoes
+# 👟 Kick Shoes
 
 Kick Shoes, modern ve responsive bir ayakkabı e-ticaret uygulamasıdır. Kullanıcılar ürünleri görüntüleyebilir, detay sayfalarını inceleyebilir ve güvenli kimlik doğrulama sistemiyle giriş yapabilir. Admin paneli sayesinde ürün ekleme, güncelleme ve silme işlemleri kolayca yönetilebilir.
 
